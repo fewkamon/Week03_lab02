@@ -1,1 +1,2 @@
 "Line 1 (new branch): This line will cause a merge conflict." 
+"Line 2 (new branch): This is another conflicting line." 
