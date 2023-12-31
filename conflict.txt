@@ -1,2 +1,3 @@
 "Line 1: This is the start of the document." 
 "Line 2: Additional line in master branch." 
+"Line 3: Further changes in master branch." 
